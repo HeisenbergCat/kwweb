@@ -1,0 +1,821 @@
+@media only screen and (min-width: 992px) and (max-width:1199px) {
+    .puge-main-menu.minified {
+        background-color:#28292e;
+        padding: 20px 0 0;
+        position: fixed
+    }
+
+    .navbar-header {
+        /* float: none; */
+        text-align: center
+    }
+
+    .navbar-brand {
+        float: none;
+        font-size: 18px;
+        line-height: 20px;
+        padding: 15px
+    }
+
+    .navbar-collapse {
+        text-align: center
+    }
+
+    .puge-main-menu .navbar-nav {
+        display: inline-block;
+        float: none
+    }
+
+
+    .puge-team-slides .puge-member-img-wrapper {
+        width: 35%;
+        margin-right: 5%
+    }
+
+    .puge-member-details {
+        display: inline-block;
+        float: left;
+        width: 60%
+    }
+	
+	.clean-icon,.clean-icon img{
+		width: 200px !important;
+		height: 100% !important;
+	}
+	
+	.logo{
+		width: 115px;height: 115px;
+		background-image: url(../images/logo.png);
+		background-size: 100% 100%;
+	}
+	
+	.clean-main-menu .navbar-nav{
+		float: right;
+		padding: 40px 0;
+	}	
+	
+	.nav>li>a{
+		position: relative;
+		display: block;
+		padding: 10px 15px;
+	}
+	
+	.clean-main-slides p{
+		font-family: raleway,sans-serif;
+		font-weight: 400;
+		font-size: 30px!important;
+		color: #fff;
+	}
+		
+	.lan_owl-prev{position:absolute;left:8%;top:50%;}
+	.lan_owl-next{position:absolute;right:8%;top:50%;}
+	.lan_font_testimonial{
+		font-family: SourceSansPro-Regular!important;
+		font-size: 19px;
+		color: #FFFFFF;
+		letter-spacing: 0;
+		line-height: 36px;
+		text-shadow: 0 0 4px rgba(0,0,0,0.50);
+		text-align: left;
+	}
+	.foot_style{
+		color: #FFFFFF!important;padding-top:50px;font-family: SourceSansPro-Regular;font-size: 14px;letter-spacing: 0;line-height: 30px;text-align: right;
+	}
+	
+}
+
+@media only screen and (min-width: 768px) and (max-width:991px) {
+    .puge-main-menu.minified {
+        padding:20px 0 0;
+        position: fixed
+    }
+
+    .navbar-header {
+        /* float: none; */
+        text-align: center
+    }
+
+    .navbar-brand {
+        float: none;
+        font-size: 18px;
+        line-height: 20px;
+        padding: 15px
+    }
+
+    .navbar-collapse {
+        text-align: center
+    }
+
+    .puge-main-menu .navbar-nav {
+        display: inline-block;
+        float: none
+    }
+
+    .puge-icones .puge-icon {
+        height: 50px;
+        width: 50px;
+        margin-right: 20px
+    }
+
+    .puge-icones .puge-blurb-text {
+        float: left;
+        width: 140px
+    }
+
+    .puge-icones .puge-icon i {
+        font-size: 24px;
+        line-height: 50px
+    }
+
+    .puge-team-slides .puge-member-img-wrapper {
+        width: 35%;
+        margin-right: 5%
+    }
+
+    .puge-member-details {
+        display: inline-block;
+        float: left;
+        width: 60%
+    }
+
+    .puge-portfolio-items .puge-portfolio-item {
+        height: 280px;
+        overflow: hidden;
+        position: relative;
+        width: 33.33331%
+    }
+	
+	.clean-icon,.clean-icon img {
+		width: 160px !important;
+		height: 100% !important;
+	}
+	
+	.logo{
+		width: 56px;height: 56px;
+		background-image: url(../images/ipa/iPad-logo.png);
+		background-size: 100% 100%;
+	}
+	
+	.clean-main-menu .navbar-nav{
+		float: right;
+		padding: 10px 0;
+	}
+	
+	.nav>li>a{
+		position: relative;
+		display: block;
+		padding: 10px 8px;
+	}
+	
+	.lan_footgd{
+		height: 300px;
+	}	
+	
+	.clean-main-slides p{
+		width: 383px!important;
+		font-family: raleway,sans-serif;
+		font-weight: 400;
+		font-size: 20px!important;
+		color: #fff;
+	}
+	
+	.clean-main-slides h1.clean-slider-text-big {
+		width: 613px!important;
+		font-size: 30px;
+		color: #fff;
+		text-transform: uppercase;
+		margin-top: 0;
+		margin-bottom: 25px
+	}
+	.clean-main-menu .navbar-nav li a{
+		font-family: SourceSansPro-Bold;
+		font-weight:100;
+		font-size: 12px;
+		color: #FFFFFF;
+		/* font-weight: 700; */
+		text-transform: uppercase;
+		padding-top: 0;
+		padding-bottom: 0;
+		line-height: 36px!important;
+		-webkit-transition: all .3s;
+		-moz-transition: all .3s;
+		-ms-transition: all .3s;
+		-o-transition: all .3s;
+		transition: all .3s;
+	}
+	
+	.search_icon{
+		background-image: url(../images/ipa/iPad-search_icon.png);background-size: 100% 100%;width:22px;height:22px;margin-top: 8px;
+	}
+	.language{
+		width: 45px;height: 24px;margin-top: 6px;background-image: url(../images/ipa/iPad_langer.png);background-size: 100% 100%;
+	}	
+	.lan-menu_font_padding li a {
+		padding-right: 20px !important;
+	}
+	
+	#BLOG{padding: 34px 0 0 0;}
+	.BLOG_botom{margin-bottom: 26px;} 
+	.clean-portfolio-work-item {
+	    height: 145px;
+	    position: relative
+	}
+	.clean-section-header h1 span {
+		font-family: SourceSansPro-Regular !important;
+		font-weight: 200;
+		font-size: 32px;
+		line-height: 40px;
+		color:#4B4B4B;
+	}
+	.lan_featured_font{
+	font-family: SourceSansPro-Bold!important;
+	font-size: 12px;
+	color: #4B4B4B;
+	letter-spacing: 1px;
+	text-align: center;
+	line-height: 16px;
+	margin-bottom: 20px;
+	}
+	.lan_featured_font_x{
+	width: 140px;
+	font-family: SourceSansPro-Light!important;
+	font-size: 11px;
+	color: #4B4B4B;
+	letter-spacing: 0;
+	text-align: center;
+	line-height: 16px;
+	margin-left: 50%;
+	transform: translateX(-50%);
+	}
+	
+	#ABOUT{padding: 44.1px 0 141px 0;}
+	.ABOUT_clean-color-contras{line-height: 40px;color: #FFFFFF!important;}
+	.lan_font_dh{
+		display: block;
+		font-size: 64px;
+		color: #C91A1E;
+		text-align: center;
+		margin: 3px auto;
+		line-height: 90px;
+	    height: 50px;
+		font-family: -webkit-pictograph;
+	}
+	.lan_owl-prev{position:absolute;left:8%;top:60%;width: 43px;height: 43px;transform: translateY(50%);}
+	.lan_owl-next{position:absolute;right:8%;top:60%;width: 43px;height: 43px;transform: translateY(50%);}
+	.lan_font_testimonial{
+		width: 505.5px;
+		margin: 0 auto;
+		font-family: SourceSansPro-Regular!important;
+		font-size: 12px;
+		color: #FFFFFF;
+		letter-spacing: 0;
+		line-height: 16px;
+		text-shadow: 0 0 4px rgba(0,0,0,0.50);
+		text-align: left;
+	}
+	.lan_WHERE_TO_BUY_font_x{
+	font-family: SourceSansPro-Regular!important;
+	font-size: 11px;
+	color: #4B4B4B;
+	letter-spacing: 0;
+	text-align: center;
+	line-height: 35px;
+	margin-bottom: 0px;
+	}
+	#WHERE_TO_BUY{padding: 40.5px 0 48px 0;}
+	.WHERE_TO_BUY_botom{margin-bottom: 54px;}
+	.clean-blurb-round-icon .clean-icon {
+		margin: 0 auto 23px;
+		text-align: center;
+		border: 2px solid #dadada;
+		/* background: rgba(201,26,30,0.6); */
+		border-radius: 50%;
+		line-height: 0;
+		/* padding: 8px; */
+	}
+	.clean-blurb-round-icon:hover .clean-icon {
+	    border: 2px solid transparent
+		/* background: rgba(201,26,30,0); */
+	}
+	.clean-blurb-round-icon h3 {
+		text-align: center;
+		font-size: 12px;
+		color: #616161;
+		margin-top: 0;
+		margin-bottom: 0px;
+		-webkit-transition: all .3s linear;
+		-moz-transition: all .3s linear;
+		-ms-transition: all .3s linear;
+		-o-transition: all .3s linear;
+		transition: all .3s linear
+	}
+	.lan_signup_btn{
+		width: 120px;
+		margin-top: 38px;
+		border: 2px solid #4B4B4B;	
+		font-family: SFNS-Regular;
+		font-size: 11px;
+		font-weight: 100;
+		color: #4B4B4B;
+		padding: 15px 30px;
+		text-align: center;
+		display: inline-block;
+		border-radius: 50px;
+	}
+	#contact{padding: 66.5px 0 50px 0;}
+	.contact_font{color:#FFFFFF!important;font-family:SFNS-Regular;font-size: 31px!important;letter-spacing: -1.6px;text-align: center;
+	line-height: 40px;font-weight: 100;}
+	.contact_bottom{margin-bottom:38px}
+	.lan_ontact{
+		width:290px;
+		left: 50%;
+		margin-left: -145px;
+		background: rgba(0,0,0,0.70);
+		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.50);
+		border-radius: 8px;    color: #FFFF;
+		padding: 34px 0px 36px 0px;
+	}
+	.Most_font{line-height: 20px;height: 20px;padding-left: 10px;font-family: SourceSansPro-Regular;font-size: 10.76px;}
+	#contact-submit {
+		border: 1px solid #C91A1E;
+		padding: 12px 0;
+		width: 140px;
+		height: 40px;
+		margin: 0;
+		border-radius: 50px;color: #FFFFFF;font-family: SourceSansPro-Regular;font-size: 11px;
+	}
+	.foot_style{
+		color: #FFFFFF!important;padding-top:63px;font-family: SourceSansPro-Regular;font-size: 10.76px;letter-spacing: 0;line-height: 30px;text-align: right;
+	}
+	.footer_backg{background: #000000;padding-top:28px;padding-bottom:25px;padding-left: 0px;padding-right: 0px;}
+	.lan_footgd{height: 181px;}
+	.lan_footer_nav_url li{
+		height: 30px;
+		line-height: 30px;
+		font-size: 12px;
+		color: #FFFFFF;
+		font-family: SourceSansPro-Regular;
+		font-weight: 100;
+	}
+	hr {
+		margin-top: 20px;
+		margin-bottom: 20px;
+		border: 0;
+		border-top: 1px solid #eee;
+	}
+	.copyright_font{line-height: 12px;font-size: 11px;font-family: SourceSansPro-Regular;}
+	.copyright_twe_font{font-size: 9px;font-family: SourceSansPro-Regular;}
+	
+}
+
+@media only screen and (max-width: 767px) {
+    .puge-section-header {
+        margin-bottom:60px;
+        text-align: center
+    }
+
+	/* 手机导航 */
+	.language{
+		width: 45px;height: 24px;margin-top: 0px;background-image: url(../images/ipa/iPad_langer.png);background-size: 100% 100%;
+	}		
+	.iphone_nav{padding:25px 0!important;margin: 0;}
+    .nav-iphone-menu {
+		padding:0px;
+		margin: auto 0;
+	}
+	
+	.nav-iphone-menu li{
+		float: left;
+		margin-right: 14px;
+	}	
+	
+	.nav-iphone-menu li a{
+		width:100%;
+		float: left;
+	}	
+
+   .nav_iphone {
+        display: block;
+        width: 22px;
+		height: 22px;
+		background-image: url(../images/iphone/Phone-menu.png);
+		background-size: 100% 100%;
+		background-repeat: no-repeat;
+		background-position: center;	
+    }
+
+
+    .navbar-collapse {
+        border-top: 0 solid transparent;
+        box-shadow: 0 0 0 transparent inset;
+        max-height: auto
+    }
+
+    .puge-main-menu .navbar-nav {
+        float: none;
+        padding: 10px 0
+    }
+
+    .puge-main-menu .navbar-nav li {
+        margin-bottom: 10px
+    }
+
+    .puge-main-menu .navbar-nav li:last-child {
+        margin-bottom: 0
+    }
+
+    .puge-blurb-icon-only {
+        margin-bottom: 50px
+    }
+
+    .puge-blurb-icon-only:last-child {
+        margin-bottom: 0
+    }
+
+    .puge-icones .puge-blurb-text {
+        float: left;
+        width: 61%
+    }
+
+    .puge-blurb-round-icon {
+        margin-bottom: 50px
+    }
+
+    .puge-blurb-round-icon:last-child {
+        margin-bottom: 0
+    }
+
+    .puge-process-item {
+        text-align: center;
+        margin-bottom: 50px
+    }
+
+    .puge-process-item:last-child {
+        margin-bottom: 0
+    }
+
+    .puge-cta-1 h2 {
+        text-align: center;
+        margin-bottom: 30px
+    }
+
+    .puge-cta-1 p {
+        text-align: center;
+        margin-bottom: 20px
+    }
+
+    .puge-cta-1 .puge-cta-btn {
+        text-align: center
+    }
+
+    .puge-cta-1 .puge-cta-btn a {
+        float: none
+    }
+
+    .puge-main-slides h1.puge-slider-text-big {
+        color: #fff;
+        font-size: 24px;
+        margin-bottom: 25px;
+        margin-top: 0;
+        text-transform: uppercase;
+        white-space: normal!important;
+        text-align: center;
+        width: 100%!important
+    }
+
+    .puge-main-slides p {
+        color: #fff;
+        font-family: raleway,sans-serif;
+        font-size: 18px!important;
+        font-weight: 400;
+        margin-bottom: 0;
+        white-space: normal!important;
+        text-align: center;
+        margin-top: 20px;
+        width: 100%!important
+    }
+
+    .puge-team-slides .puge-member-img-wrapper {
+        float: none;
+        height: auto;
+        width: 100%
+    }
+
+    .puge-member-details {
+        float: none;
+        width: 100%;
+        text-align: center
+    }
+
+    .puge-member-details ul {
+        display: inline-block
+    }
+
+    .puge-counter-item {
+        margin-bottom: 50px
+    }
+
+    .puge-counter-item:last-child {
+        margin-bottom: 0
+    }
+
+    .puge-portfolio-items .puge-portfolio-item {
+        height: 280px;
+        overflow: hidden;
+        position: relative;
+        width: 100%
+    }
+
+    .puge-section-wrapper .puge-custom-sec-img {
+        margin-bottom: 20px
+    }
+
+    .puge-contact-section .puge-contact-address {
+        margin-bottom: 50px
+    }
+	
+	.clean-icon,.clean-icon img{
+		width: 150px !important;
+		height: 100% !important;
+	}
+		
+	.lan_signup_btn{
+		margin: 20px 0 20px 0;
+	}
+	
+	.logo{
+		width: 56px;height: 56px;
+		background-image: url(../images/iphone/Phone-logo.png);
+		background-size: 100% 100%;
+	}
+	
+	.lan_footgd{
+		height: 250px;
+	}
+	
+	.clean-main-slides p{
+		width: 255px!important;
+		font-family: raleway,sans-serif;
+		font-weight: 400;
+		font-size: 20px!important;
+		color: #fff;
+	}
+	
+	.clean-main-slides h1.clean-slider-text-big {
+		width: 382px!important;
+		font-size: 30px;
+		color: #fff;
+		text-transform: uppercase;
+		margin-top: 0;
+		margin-bottom: 25px
+	}	
+}
+
+@media only screen and (min-width: 320px) and (max-width:767px) {
+	/* 选择隐藏的显示hot产品的开关 */
+	.iphone_state_off{display: none;}
+	.iphone_state_on{display: block;}
+		
+    .puge-portfolio-items .puge-portfolio-item {
+        width:50%
+    }
+	
+	.clean-main-slides p{
+		width: 220px!important;
+		font-family: raleway,sans-serif;
+		font-weight: 200;
+		font-size: 15px!important;
+		color: #fff;
+	}
+	
+	.clean-main-slides h1.clean-slider-text-big {
+		width: 360px!important;
+		font-size: 28px;
+		color: #fff;
+		text-transform: uppercase;
+		margin-top: 0;
+		margin-bottom: 25px
+	}
+
+/* }
+
+@media only screen and (min-width: 320px) and (max-width:479px) { */
+	/* 选择隐藏的显示hot产品的开关 */
+/* 	.iphone_state_off{display: none;}
+	.iphone_state_on{display: block;} */
+
+	.clean-main-slides p{
+		width: 130px!important;
+		font-family: raleway,sans-serif;
+		font-weight: 200;
+		font-size: 10px!important;
+		color: #fff;
+	}
+	
+	.clean-main-slides h1.clean-slider-text-big {
+		width: 260px!important;
+		font-size: 20px;
+		color: #fff;
+		text-transform: uppercase;
+		margin-top: 0;
+		margin-bottom: 25px
+	}
+	
+	.logo{
+		width: 56px;height: 56px;
+		background-image: url(../images/iphone/Phone-logo.png);
+		background-size: 100% 100%;
+		margin-left: 13px;
+	}
+	
+	.iphone_nav{padding:15px 0!important;margin: 0;}
+	
+	#BLOG{padding: 28px 0 35px 0;}
+	.BLOG_botom{margin-bottom: 0px;}
+	.BLOG_botom h1{margin: 0px;}
+	 /* 图片大小 */
+	.clean-portfolio-work-item {
+	    height: 145px;
+	    position: relative
+	}
+	/* 主题字体大小 */
+	.clean-section-header h1 span {
+		font-family: SourceSansPro-Regular !important;
+		font-weight: 200;
+		font-size: 20px;
+		line-height: 40px;
+		color:#4B4B4B;
+	}
+	/* 图文字体大小 */
+	.lan_featured_font_x{
+		width: 140px;
+		font-family: SourceSansPro-Light!important;
+		font-size: 11px;
+		color: #4B4B4B;
+		letter-spacing: 0;
+		text-align: center;
+		line-height: 16px;
+		margin-left: 50%;
+		transform: translateX(-50%);
+		padding-bottom: 13.6px;
+	}
+	
+	#ABOUT{padding: 28px 0 108px 0;}
+	.ABOUT_clean-color-contras{line-height: 40px;color: #FFFFFF!important;}
+	.lan_font_dh{
+		display: block;
+		font-size: 64px;
+		color: #C91A1E;
+		text-align: center;
+		margin: 0px auto;
+		line-height: 60px;
+		height: 40px;
+		font-family: -webkit-pictograph;
+	}
+	.lan_owl-prev{position:absolute;left:8%;top:60%;width: 43px;height: 43px;transform: translateY(50%);}
+	.lan_owl-next{position:absolute;right:8%;top:60%;width: 43px;height: 43px;transform: translateY(50%);}
+	.lan_font_testimonial{
+		width: 239px;
+		margin: 0 auto;
+		font-family: SourceSansPro-Regular!important;
+		font-size: 12px;
+		color: #FFFFFF;
+		letter-spacing: 0;
+		line-height: 16px;
+		text-shadow: 0 0 4px rgba(0,0,0,0.50);
+		text-align: left;
+	}
+	.lan_WHERE_TO_BUY_font_x{
+	font-family: SourceSansPro-Regular!important;
+	font-size: 11px;
+	color: #4B4B4B;
+	letter-spacing: 0;
+	text-align: center;
+	line-height: 35px;
+	margin-bottom: 0px;
+	}
+	
+	#WHERE_TO_BUY{padding: 29px 0 48px 0;}
+	.WHERE_TO_BUY_botom{margin-bottom: 56px;}
+	.WHERE_TO_BUY_botom h1{margin-bottom: 10px;}
+	.clean-blurb-round-icon .clean-icon {
+		margin: 0 auto 18px;
+		text-align: center;
+		border: 1px solid #dadada;
+		border-radius: 50%;
+		line-height: 0;
+	}
+	.clean-blurb-round-icon:hover .clean-icon {
+	    border: 1px solid transparent
+	}
+	.clean-blurb-round-icon h3 {
+		font-weight:100;
+		text-align: center;
+		font-size: 12px;
+		color: #616161;
+		margin-top: 0;
+		margin-bottom: 0px;
+		-webkit-transition: all .3s linear;
+		-moz-transition: all .3s linear;
+		-ms-transition: all .3s linear;
+		-o-transition: all .3s linear;
+		transition: all .3s linear
+	}
+	.lan_signup_btn{
+		width: 120px;
+		height: 32px;
+		line-height: 4px;
+		border: 2px solid #4B4B4B;	
+		font-family: SFNS-Regular;
+		font-size: 11px;
+		font-weight: 100;
+		color: #4B4B4B;
+		padding: 15px 30px;
+		text-align: center;
+		display: inline-block;
+		border-radius: 50px;
+	}
+	/* 下面部分 */
+	#contact{padding: 66.5px 0 50px 0;}
+	.contact_font{color:#FFFFFF!important;font-family:SFNS-Regular;font-size: 31.29px!important;letter-spacing: -1.6px;text-align: center;
+	line-height: 40px;font-weight: 100;}
+	.contact_bottom{margin-bottom:38px}
+	.lan_Get_in_Touch-background{
+		background-image: url(../images/Get_in_Touch-background.png);
+			background-size: auto;
+	    background-repeat: no-repeat;
+	    background-position: center;	
+	}
+	.background-lan-images{
+		background-image: url(../images/ABOUT_US.png);
+		background-size: auto;
+		background-repeat: no-repeat;
+		background-position: -158px -42px;	
+	}
+	#contact-form input,textarea{font-size: 11px!important;}
+	.form-group {
+		margin-bottom: 20px;
+	}	
+	.lan_ontact{
+		width:290px;
+		left: 50%;
+		margin-left: -145px;
+		background: rgba(0,0,0,0.70);
+		box-shadow: 0 8px 16px 0 rgba(0,0,0,0.50);
+		border-radius: 8px;    color: #FFFF;
+		padding: 34px 0px 36px 0px;
+	}
+	.Most_font{line-height: 20px;height: 20px;padding-left: 10px;font-family: SourceSansPro-Regular;font-size: 10.76px;}
+	#contact-submit {
+		border: 1px solid #C91A1E;
+		padding: 12px 0;
+		width: 140px;
+		height: 40px;
+		margin: 0;
+		border-radius: 50px;color: #FFFFFF;font-family: SourceSansPro-Regular;font-size: 11px;
+	}
+	.foot_style{
+		color: #FFFFFF!important;padding-top:63px;font-family: SourceSansPro-Regular;font-size: 10.76px;letter-spacing: 0;line-height: 30px;text-align: right;
+	}
+	.foot_style span{
+		float: left;clear: both;
+	}
+	.Dongguan img{padding-right: 10px;}
+	.Email img{padding-right: 5px;}
+	.lan_fa_lg i{padding-right: 11px;}
+	.footer_backg{background: #000000;padding-top:28px;padding-bottom:51px;padding-left: 0px;padding-right: 0px;}
+	.lan_footgd{height: 181px;}
+	.lan_footer_nav_url li{
+		height: 25px;
+		line-height: 30px;
+		font-size: 11px;
+		color: #FFFFFF;
+		font-family: SourceSansPro-Regular;
+		font-weight: 100;
+	}
+	hr {
+		margin-top: 10px;
+		margin-bottom: 10px;
+		border: 0;
+		border-top: 1px solid #eee;
+	}
+	.lan_footgd{
+		width: 50%;
+		height: 160px;
+	}	
+	.copyright_font{line-height: 12px;font-size: 11px;font-family: SourceSansPro-Regular;width: 191px;text-align: center;margin: auto;margin-top: 18px;}
+	.copyright_twe_font{font-size: 9px;font-family: SourceSansPro-Regular;width: 191px;text-align: center;margin: auto;}
+	
+	.clean-slider .sp-button{border: 1px solid rgba(216,216,216,10%);
+    background-color: rgba(216,216,216,10%);
+    /* opacity: 10%; */
+    border-radius: 50%;
+    box-sizing: border-box;
+    cursor: pointer;
+    display: inline-block;
+    height: 10px;
+    margin: 10px;
+    width: 10px;}
+	.sp-image{background-image: url(../images/iphone/Phone-1.png);background-repeat: no-repeat;
+	    background-position: center;background-size: 100% 100%;}
+}

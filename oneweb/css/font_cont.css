@@ -1,0 +1,24 @@
+@font-face {
+ font-family: SourceSansPro-Bold;
+ src: url('../font_cont/SourceSansPro-Bold.otf');
+}
+@font-face {
+ font-family: SourceSansPro-Regular;
+ src: url('../font_cont/SourceSansPro-Regular.otf');
+}
+@font-face {
+ font-family: SourceSansPro-Light;
+ src: url('../font_cont/SourceSansPro-Light.otf');
+}
+@font-face {
+	font-family: Times-Roman;
+	src: url('../font_cont/Times-Roman.otf');
+}
+@font-face {
+	font-family: SFNS-Regular;
+	src: url('../font_cont/SFNS-Regular.otf');
+}
+@font-face {
+	font-family: SourceSansPro-It;
+	src: url('../font_cont/SourceSansPro-It.otf');
+}
