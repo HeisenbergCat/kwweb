@@ -397,8 +397,8 @@ a:hover,a:focus,a:active {
 
 .clean-section-header h1 span {
     font-family: SourceSansPro-Regular !important;
-    font-weight: 200;
-    font-size: 44px;
+    font-weight: 200!important;
+    font-size: 44px!important;
 	line-height: 48px;
 	color:#4B4B4B;
 }
