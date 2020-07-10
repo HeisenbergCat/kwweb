@@ -1489,21 +1489,7 @@ line-height: 48px;font-weight: 100;}
 	left: 50%;
 	transform: translateX(-50%);
 }
-input::-webkit-input-placeholder {
-	 color: #FFFFFF!important;
-	 font-size: 16px;
-	 font-family: SourceSansPro-It!important; 
-}
-input::-moz-placeholder{
-	color: #FFFFFF!important;
-	font-size: 16px;
-	font-family: SourceSansPro-It!important; 
-}
-input:-ms-input-placeholder{
-	color: #FFFFFF!important;
-	font-size: 16px;
-	font-family: SourceSansPro-It!important;	
-}
+
 .nav_search input{
 	font-family: SourceSansPro-Bold!important;
 	font-size: 16px;

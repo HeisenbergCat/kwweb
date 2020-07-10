@@ -742,7 +742,7 @@
 	.contact_bottom{margin-bottom:38px}
 	.lan_Get_in_Touch-background{
 		background-image: url(../images/Get_in_Touch-background.png);
-			background-size: auto;
+			background-size: auto 100%;
 	    background-repeat: no-repeat;
 	    background-position: center;	
 	}
