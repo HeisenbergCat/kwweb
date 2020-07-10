@@ -16,7 +16,8 @@
 }
 @font-face {
 	font-family: SFNS-Regular;
-	src: url('../font_cont/SFNS-Regular.otf');
+	/* src: url('../font_cont/SFNS-Regular.otf'); */
+	src: url('../font_cont/SystemSanFrancisco-Display-Thin.ttf'); 
 }
 @font-face {
 	font-family: SourceSansPro-It;
