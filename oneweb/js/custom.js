@@ -207,7 +207,7 @@ jQuery(document).ready(function() {
                 height: 480
             },
             375: {
-                height: 250
+                height: 425
             },
             320: {
                 height: 425
