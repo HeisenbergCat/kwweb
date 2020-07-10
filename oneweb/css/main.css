@@ -256,7 +256,7 @@ a:hover,a:focus,a:active {
     text-align: center;
     border: 8px solid #dadada;
 	/* background: rgba(201,26,30,0.6); */
-    border-radius: 50%;
+    border-radius: 50%!important;
     line-height: 0;
     /* padding: 8px; */
 }
